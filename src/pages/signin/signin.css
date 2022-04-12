@@ -1,0 +1,72 @@
+.darzi{
+    width:100%;
+    max-width:428px;
+    height:100vh;
+    background-color:#870404;
+    margin:0 auto;
+    padding-top:22px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.darzi .logo{
+    width:90px;
+    height:90px;
+}
+.logo-top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.darzi span{
+    color:#fff;
+    font-size:18px;
+    line-height:27px;
+    display: block;
+}
+form{
+    width:80%;
+}
+form p{
+    color:#fff;
+    font-size:18px;
+    text-align: start;
+    margin:0;
+    line-height:21px;
+    margin-bottom:14px;
+}
+.input{
+    background-color:#B67474;
+    display:flex;
+    padding:8px 0;
+}
+.input .icon{
+    display:flex;
+}
+.input input{
+    background:transparent;
+    border:none;
+    outline:none;
+    color:#ffffff;
+    font-size:24px;
+    width:100%;
+}
+form button{
+    margin-top:18px;
+    width:100%;
+    padding:14px 0;
+    font-size:18px;
+    color:#8B0101;
+    border:none;
+    outline:none;
+}
+footer{
+    text-align:center;
+    padding-bottom:58px;
+}
+footer a{
+    color:#fff;
+    font-size:18px;
+    text-decoration: none;
+}
